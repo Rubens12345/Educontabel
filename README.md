@@ -33,6 +33,12 @@ git clone https://github.com/EuBluezinn/Educontabel.git
 - Componentes reutilizáveis
 
 ## Equipe
+Rubens1245,
+EuBluezinn
+Skytzen,
+Fael09,
+Mzumi-i,
+Adryan Renan.
 
 Este repositório é mantido por [@EuBluezinn](https://github.com/EuBluezinn)
 
